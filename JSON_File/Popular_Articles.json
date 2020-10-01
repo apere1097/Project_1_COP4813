@@ -1,0 +1,1255 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/f65c2bbe-f44e-5303-97d4-6568e608b226",
+      "url": "https://www.nytimes.com/2020/09/29/opinion/trump-election-fraud-2020.html",
+      "id": 100000007367744,
+      "asset_id": 100000007367744,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 20:13:25",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Debates (Political);United States Politics and Government;Absentee Voting;Biden, Joseph R Jr;Trump, Donald J;Republican Party;Democratic Party",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "Trump Sent a Warning. Let\u2019s Take It Seriously.",
+      "abstract": "Our democracy is in terrible danger \u2014 more than since the Civil War, more than after Pearl Harbor, more than during the Cuban missile crisis.",
+      "des_facet": [
+        "Debates (Political)",
+        "United States Politics and Government",
+        "Absentee Voting"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1c2da958-3f03-52a3-8d50-6cb9ad94e2ee",
+      "url": "https://www.nytimes.com/2020/09/30/opinion/biden-trump-2020-debate.html",
+      "id": 100000007367898,
+      "asset_id": 100000007367898,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-09-30 21:44:09",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Debates (Political);Presidential Election of 2020;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J",
+      "column": null,
+      "byline": "By Frank Bruni",
+      "type": "Article",
+      "title": "After That Fiasco, Biden Should Refuse to Debate Trump Again",
+      "abstract": "The president was petulant and puerile, so what is the point?",
+      "des_facet": [
+        "Debates (Political)",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30bruni1/30bruni1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30bruni1/30bruni1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30bruni1/30bruni1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1dc5d51b-f562-5714-bc62-67289411eba3",
+      "url": "https://www.nytimes.com/2020/09/29/opinion/ruth-bader-ginsburg-jewish.html",
+      "id": 100000007366999,
+      "asset_id": 100000007366999,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 17:26:38",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Jews and Judaism;United States Politics and Government;Ginsburg, Ruth Bader;Supreme Court (US)",
+      "column": null,
+      "byline": "By Jennifer Weiner",
+      "type": "Article",
+      "title": "The Very Jewish R.B.G.",
+      "abstract": "Back in the days of Clinton and Obama, Ginsburg\u2019s presence on the bench was a symbol of progress. In the days of Trump, she was a bulwark.",
+      "des_facet": [
+        "Jews and Judaism",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Ginsburg, Ruth Bader"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kevin Wolf/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Weiner1/29Weiner1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Weiner1/29Weiner1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Weiner1/29Weiner1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/32d40ba0-d91d-5c3b-ae7b-49987278ff4c",
+      "url": "https://www.nytimes.com/2020/09/30/opinion/trump-2020-moving-abroad.html",
+      "id": 100000007363660,
+      "asset_id": 100000007363660,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-09-30 21:44:12",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;Americans Abroad;Citizenship and Naturalization;Trump, Donald J;Germany;Ireland;Lithuania;United States",
+      "column": null,
+      "byline": "By Jennifer Finney Boylan",
+      "type": "Article",
+      "title": "Will You Leave the Country if Trump Is Re-Elected?",
+      "abstract": "A generation of Americans prepares to flee.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Americans Abroad",
+        "Citizenship and Naturalization"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Germany",
+        "Ireland",
+        "Lithuania",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alex Filipe/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30Boylan/30Boylan-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30Boylan/30Boylan-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30Boylan/30Boylan-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a2b8bd1f-47aa-59cc-9199-0b3a155eb54e",
+      "url": "https://www.nytimes.com/2020/09/28/well/eat/a-potential-downside-of-intermittent-fasting.html",
+      "id": 100000007359088,
+      "asset_id": 100000007359088,
+      "source": "New York Times",
+      "published_date": "2020-09-28",
+      "updated": "2020-09-30 16:34:05",
+      "section": "Well",
+      "subsection": "Eat",
+      "nytdsection": "well",
+      "adx_keywords": "Fasting;Weight;Obesity;Diet and Nutrition;Muscles;Calories;JAMA Internal Medicine (Journal)",
+      "column": null,
+      "byline": "By Anahad O\u2019Connor",
+      "type": "Article",
+      "title": "A Potential Downside of Intermittent Fasting",
+      "abstract": "A rigorous three-month study found that people lost little weight, and much of that may have been from muscle.",
+      "des_facet": [
+        "Fasting",
+        "Weight",
+        "Obesity",
+        "Diet and Nutrition",
+        "Muscles",
+        "Calories"
+      ],
+      "org_facet": [
+        "JAMA Internal Medicine (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chiara Zarmati",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/06/science/WELL-INTERMITTENTFASTING/WELL-INTERMITTENTFASTING-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/06/science/WELL-INTERMITTENTFASTING/WELL-INTERMITTENTFASTING-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/06/science/WELL-INTERMITTENTFASTING/WELL-INTERMITTENTFASTING-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/56400ef1-7539-5bee-b263-31237adff8be",
+      "url": "https://www.nytimes.com/2020/09/29/climate/nuclear-fusion-reactor.html",
+      "id": 100000007364836,
+      "asset_id": 100000007364836,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 01:30:27",
+      "section": "Climate",
+      "subsection": "",
+      "nytdsection": "climate",
+      "adx_keywords": "Research;Fusion (Nuclear Reaction);Global Warming;Journal of Plasma Physics;Massachusetts Institute of Technology;Commonwealth Fusion Systems LLC",
+      "column": null,
+      "byline": "By Henry Fountain",
+      "type": "Article",
+      "title": "Compact Nuclear Fusion Reactor Is \u2018Very Likely to Work,\u2019 Studies Suggest",
+      "abstract": "A series of research papers renews hope that the long-elusive goal of mimicking the way the sun produces energy might be achievable.",
+      "des_facet": [
+        "Research",
+        "Fusion (Nuclear Reaction)",
+        "Global Warming"
+      ],
+      "org_facet": [
+        "Journal of Plasma Physics",
+        "Massachusetts Institute of Technology",
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A stainless steel vacuum chamber that is part of the International Thermonuclear Experimental Reactor, a large fusion energy project being built in Southern France.",
+          "copyright": "Clement Mahoudeau/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/science/29CLI-FUSION01/29CLI-FUSION01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/science/29CLI-FUSION01/29CLI-FUSION01-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/science/29CLI-FUSION01/29CLI-FUSION01-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/012a2509-ee82-5845-a8f7-0e73a4e17f19",
+      "url": "https://www.nytimes.com/2020/09/28/opinion/trump-voters.html",
+      "id": 100000007364860,
+      "asset_id": 100000007364860,
+      "source": "New York Times",
+      "published_date": "2020-09-28",
+      "updated": "2020-09-29 16:17:48",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Polls and Public Opinion;Presidential Election of 2020;Biden, Joseph R Jr;Clinton, Bill;Clinton, Hillary Rodham;de Blasio, Bill;Ford, Christine Blasey;Harris, Kamala D;Kavanaugh, Brett M;Sanders, Bernard;Democratic Party",
+      "column": null,
+      "byline": "By Bret Stephens",
+      "type": "Article",
+      "title": "Meet a Secret Trump Voter",
+      "abstract": "\u2018Being a lesbian who\u2019s voting for Trump is like coming out of the closet again.\u2019",
+      "des_facet": [
+        "United States Politics and Government",
+        "Polls and Public Opinion",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Clinton, Bill",
+        "Clinton, Hillary Rodham",
+        "de Blasio, Bill",
+        "Ford, Christine Blasey",
+        "Harris, Kamala D",
+        "Kavanaugh, Brett M",
+        "Sanders, Bernard"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u00a0",
+          "copyright": "Robert McCarthy",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/opinion/28stephensSub/28stephensSub-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/opinion/28stephensSub/28stephensSub-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/opinion/28stephensSub/28stephensSub-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ac4fcaf7-e568-5698-a336-9778f408503a",
+      "url": "https://www.nytimes.com/2020/09/28/dining/drinks/read-wine-label.html",
+      "id": 100000007347169,
+      "asset_id": 100000007347169,
+      "source": "New York Times",
+      "published_date": "2020-09-28",
+      "updated": "2020-09-30 08:07:02",
+      "section": "Food",
+      "subsection": "Wine, Beer & Cocktails",
+      "nytdsection": "food",
+      "adx_keywords": "Wines;Grapes;Typography;Labeling and Labels (Product);Content Type: Service",
+      "column": null,
+      "byline": "By Eric Asimov",
+      "type": "Article",
+      "title": "How to Read a Wine Label, in 12 Easy Lessons",
+      "abstract": "The wine shop can be intimidating, with so many different styles of labeling. Here\u2019s help in decoding a dozen basic types.",
+      "des_facet": [
+        "Wines",
+        "Grapes",
+        "Typography",
+        "Labeling and Labels (Product)",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexandra Bowman",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/dining/28pour-illo/28pour-illo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/dining/28pour-illo/28pour-illo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/dining/28pour-illo/28pour-illo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f50fbe4a-520f-5bac-bfa9-204219c1c42e",
+      "url": "https://www.nytimes.com/2020/09/29/style/cecil-b-demille-liquor-dusty-hunters-whiskey.html",
+      "id": 100000007347108,
+      "asset_id": 100000007347108,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-29 20:49:09",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Collectors and Collections;Alcoholic Beverages;Bourbon (Whiskey);Liquor;Hobbies;Demille, Cecil B",
+      "column": null,
+      "byline": "By Aaron Goldfarb",
+      "type": "Article",
+      "title": "Mr. DeMille, I\u2019m Ready for Your Booze Stash",
+      "abstract": "Dusty hunters seek valuable old bottles of whiskey and other spirits. This one found the collection of a lifetime.",
+      "des_facet": [
+        "Collectors and Collections",
+        "Alcoholic Beverages",
+        "Bourbon (Whiskey)",
+        "Liquor",
+        "Hobbies"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Demille, Cecil B"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Captain\u2019s table:The director and producer Cecil B. DeMille, sitting at his desk on a yacht, circa 1930.",
+          "copyright": "FPG/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/fashion/27vintageliquor11/27vintageliquor11-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/fashion/27vintageliquor11/27vintageliquor11-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/fashion/27vintageliquor11/27vintageliquor11-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8b797782-f8be-5a87-81eb-cc5c4b75f594",
+      "url": "https://www.nytimes.com/2020/09/29/opinion/covid-pandemic-us-response.html",
+      "id": 100000007359076,
+      "asset_id": 100000007359076,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 21:30:44",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus (2019-nCoV);Deaths (Fatalities);Coronavirus Reopenings;Quarantines;Epidemics;Tests (Medical);Masks;Bush, George W;Obama, Barack;Trump, Donald J;Centers for Disease Control and Prevention;United States;China;New York City;Europe",
+      "column": null,
+      "byline": "By Johnny Harris, Nicholas Kristof and Adam B. Ellick",
+      "type": "Article",
+      "title": "How America Lost 200,000 Lives to Covid-19",
+      "abstract": "The U.S. spent 15 years preparing for the coronavirus. Why did we handle it so badly?",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Deaths (Fatalities)",
+        "Coronavirus Reopenings",
+        "Quarantines",
+        "Epidemics",
+        "Tests (Medical)",
+        "Masks"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        "Bush, George W",
+        "Obama, Barack",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "United States",
+        "China",
+        "New York City",
+        "Europe"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/autossell/op-covid-explainer-thumb/op-covid-explainer-thumb-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/autossell/op-covid-explainer-thumb/op-covid-explainer-thumb-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/autossell/op-covid-explainer-thumb/op-covid-explainer-thumb-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e84998fc-6866-5c3b-a8a8-5de9e863aa20",
+      "url": "https://www.nytimes.com/2020/09/29/world/europe/sweden-coronavirus-strategy.html",
+      "id": 100000007352137,
+      "asset_id": 100000007352137,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 11:03:41",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus (2019-nCoV);Disease Rates;Deaths (Fatalities);Quarantines;Shutdowns (Institutional);Masks;Sweden;Stockholm (Sweden)",
+      "column": null,
+      "byline": "By Thomas Erdbrink",
+      "type": "Article",
+      "title": "Vilified Early Over Lax Virus Strategy, Sweden Seems to Have Scourge Controlled",
+      "abstract": "After having weathered high death rates when it resisted a lockdown in the spring, Sweden now has one of Europe\u2019s lowest rates of daily new cases. Whether that is an aberration remains to be seen.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Deaths (Fatalities)",
+        "Quarantines",
+        "Shutdowns (Institutional)",
+        "Masks"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Sweden",
+        "Stockholm (Sweden)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stockholm, this month. In Sweden, the number of new infections right now is surprisingly low.",
+          "copyright": "Elisabeth Ubbe for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/24/world/00virus-sweden-1/00virus-sweden-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/24/world/00virus-sweden-1/merlin_176723451_39741532-5790-40eb-b0c4-e38de93669d5-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/24/world/00virus-sweden-1/merlin_176723451_39741532-5790-40eb-b0c4-e38de93669d5-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e1d252e0-bca9-5110-9ff3-d24ac54296db",
+      "url": "https://www.nytimes.com/2020/09/28/arts/design/edward-hopper-copies-paintings.html",
+      "id": 100000007359016,
+      "asset_id": 100000007359016,
+      "source": "New York Times",
+      "published_date": "2020-09-28",
+      "updated": "2020-09-29 12:07:41",
+      "section": "Arts",
+      "subsection": "Art & Design",
+      "nytdsection": "arts",
+      "adx_keywords": "Art;Research;Hopper, Edward;Shadwick, Louis;Burlington Magazine, The",
+      "column": null,
+      "byline": "By Blake Gopnik",
+      "type": "Article",
+      "title": "Early Works by Edward Hopper Found to Be Copies of Other Artists",
+      "abstract": "A grad student\u2019s discovery \u201ccuts straight through the widely held perception of Hopper as an American original,\u201d without a debt to others, a Whitney curator said.",
+      "des_facet": [
+        "Art",
+        "Research"
+      ],
+      "org_facet": [
+        "Burlington Magazine, The"
+      ],
+      "per_facet": [
+        "Hopper, Edward",
+        "Shadwick, Louis"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new study of Edward Hopper says that \u201cOld Ice Pond at Nyack,\u201d circa 1897, was the teenage artist\u2019s copy of an earlier painting by Bruce Crane.",
+          "copyright": "Heirs of Josephine N. Hopper / Licensed by Artists Rights Society (ARS), NY",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/arts/28hopper-notebook1/merlin_177461007_e9c2ab35-1bc5-4efb-8b42-737e4d39f529-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/arts/28hopper-notebook1/merlin_177461007_e9c2ab35-1bc5-4efb-8b42-737e4d39f529-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/arts/28hopper-notebook1/merlin_177461007_e9c2ab35-1bc5-4efb-8b42-737e4d39f529-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/635bc434-89fc-5304-b3c7-a654591efdc0",
+      "url": "https://www.nytimes.com/2020/09/29/us/college-student-dies-covid.html",
+      "id": 100000007368683,
+      "asset_id": 100000007368683,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 16:51:46",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Deaths (Fatalities);Guillain-Barre Syndrome;Colleges and Universities;Dorrill, Chad (d 2020);Appalachian State University;Boone (NC)",
+      "column": null,
+      "byline": "By Shawn Hubler",
+      "type": "Article",
+      "title": "\u2018Super Healthy\u2019 College Student Dies of Rare Covid-19 Complications",
+      "abstract": "Chad Dorrill, a 19-year-old at Appalachian State, recovered from flulike symptoms but then developed neurological problems.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Deaths (Fatalities)",
+        "Guillain-Barre Syndrome",
+        "Colleges and Universities"
+      ],
+      "org_facet": [
+        "Appalachian State University"
+      ],
+      "per_facet": [
+        "Dorrill, Chad (d 2020)"
+      ],
+      "geo_facet": [
+        "Boone (NC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chad Dorrill died of neurological complications related to Covid-19. His uncle said Mr. Dorrill\u2019s legs didn\u2019t work when he tried to get out of bed.",
+          "copyright": "Yasmin Leonard Photography",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/29virus-student-pix-sub/29virus-student-pix-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/29virus-student-pix-sub/29virus-student-pix-sub-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/29virus-student-pix-sub/29virus-student-pix-sub-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1162113a-28df-5385-86a0-8ccc114efe9a",
+      "url": "https://www.nytimes.com/2020/09/29/style/fengshui-interior-design-lesson.html",
+      "id": 100000007340005,
+      "asset_id": 100000007340005,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 08:10:28",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Interior Design and Furnishings;Feng Shui;Wendell, Judith",
+      "column": null,
+      "byline": "By Jane Margolies",
+      "type": "Article",
+      "title": "Feng Shui Lessons From a Design Master Who Has Your Back",
+      "abstract": "A novice studies the practice to improve her d\u00e9cor, her nerves and maybe even her bank balance.",
+      "des_facet": [
+        "Interior Design and Furnishings",
+        "Feng Shui"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Wendell, Judith"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Following the principles of feng shui, a settee was placed in the \u201ccommand position,\u201d within sight of the doorway but not directly in line with it.",
+          "copyright": "Stefano Ukmar for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/style/01sp-fengshui5/01sp-fengshui5-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/style/01sp-fengshui5/01sp-fengshui5-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/style/01sp-fengshui5/01sp-fengshui5-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/996d90bf-608d-53c7-ad8b-590ee5668361",
+      "url": "https://www.nytimes.com/2020/09/29/opinion/abortion-roe-supreme-court.html",
+      "id": 100000007364660,
+      "asset_id": 100000007364660,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 14:07:57",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Roe v Wade (Supreme Court Decision);Abortion;Women's Rights;United States Politics and Government;States (US);State Legislatures;Trump, Donald J;Barrett, Amy Coney;Ginsburg, Ruth Bader;Supreme Court (US)",
+      "column": null,
+      "byline": "By Joan C. Williams",
+      "type": "Article",
+      "title": "The Case for Accepting Defeat on Roe",
+      "abstract": "Maybe it is time to face the fact that abortion access will be fought for in legislatures, not courts.",
+      "des_facet": [
+        "Roe v Wade (Supreme Court Decision)",
+        "Abortion",
+        "Women's Rights",
+        "United States Politics and Government",
+        "States (US)",
+        "State Legislatures"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Barrett, Amy Coney",
+        "Ginsburg, Ruth Bader"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anti-abortion demonstrators listen to President Trump at the March for Life in Washington last January.",
+          "copyright": "Olivier Douliery/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Williams4/merlin_167724633_59de7ca1-8eb5-4e41-a3fd-72c119e31ab4-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Williams4/29Williams4-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Williams4/29Williams4-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5bfc6257-f0ba-5fea-befe-8a441604924a",
+      "url": "https://www.nytimes.com/2020/09/29/opinion/international-world/mexico-corruption-lopez-obrador.html",
+      "id": 100000007354554,
+      "asset_id": 100000007354554,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 01:05:46",
+      "section": "Opinion",
+      "subsection": "Opinion | The World",
+      "nytdsection": "opinion",
+      "adx_keywords": "Corruption (Institutional);Drug Cartels;Referendums;Lopez Obrador, Andres Manuel;Lozoya, Emilio;Calderon, Felipe;Pena Nieto, Enrique;Mexico",
+      "column": null,
+      "byline": "By Ioan Grillo",
+      "type": "Article",
+      "title": "Mexico and the Gods of Corruption",
+      "abstract": "President Andr\u00e9s Manuel L\u00f3pez Obrador has a chance to fight corruption at the top. But he needs to uphold the law on all sides to be effective.",
+      "des_facet": [
+        "Corruption (Institutional)",
+        "Drug Cartels",
+        "Referendums"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Lopez Obrador, Andres Manuel",
+        "Lozoya, Emilio",
+        "Calderon, Felipe",
+        "Pena Nieto, Enrique"
+      ],
+      "geo_facet": [
+        "Mexico"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Andr&eacute;s Manuel L&oacute;pez Obrador at the National Palace in Mexico City. One of his campaign pledges was to rid Mexico of corruption.",
+          "copyright": "Adri&aacute;n Monroy/Medios y Media, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Grillo/29Grillo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Grillo/29Grillo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Grillo/29Grillo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b6daed18-6bf3-5352-b466-36562e3f511e",
+      "url": "https://www.nytimes.com/2020/09/30/opinion/presidential-debate-trump-biden.html",
+      "id": 100000007367931,
+      "asset_id": 100000007367931,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-09-30 21:44:12",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;Trump Tax Returns;Right-Wing Extremism and Alt-Right;Coronavirus (2019-nCoV);Coronavirus Reopenings;Biden, Joseph R Jr;Trump, Donald J;Democratic Party;Proud Boys;Republican Party;Supreme Court (US);United States",
+      "column": null,
+      "byline": "By The New York Times Opinion",
+      "type": "Article",
+      "title": "Biden and Trump\u2019s First Debate: Best and Worst Moments",
+      "abstract": "How Round 1 looked to Times Opinion writers.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Trump Tax Returns",
+        "Right-Wing Extremism and Alt-Right",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Proud Boys",
+        "Republican Party",
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photographs by Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30scorecard1/30scorecard1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30scorecard1/30scorecard1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30scorecard1/30scorecard1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/edf8e8ec-52ca-5407-bcd2-440139ebcedb",
+      "url": "https://www.nytimes.com/2020/09/30/style/deepak-chopra-disagreement-advice.html",
+      "id": 100000007345826,
+      "asset_id": 100000007345826,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-09-30 18:06:52",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Content Type: Service;Social Media;Buddhism;Bullies;Meditation;your-feed-selfcare;Chopra, Deepak;La Jolla (Calif)",
+      "column": null,
+      "byline": "By Nicole Pajer",
+      "type": "Article",
+      "title": "How to Have a Disagreement Like an Adult, According to Deepak Chopra",
+      "abstract": "The longtime New Age celebrity has a working theory about how we can all get along. Your mileage may vary.",
+      "des_facet": [
+        "Content Type: Service",
+        "Social Media",
+        "Buddhism",
+        "Bullies",
+        "Meditation",
+        "your-feed-selfcare"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Chopra, Deepak"
+      ],
+      "geo_facet": [
+        "La Jolla (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Philip Cheung for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/fashion/29DEEPAK1/29DEEPAK1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/fashion/29DEEPAK1/29DEEPAK1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/fashion/29DEEPAK1/29DEEPAK1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/230f845b-df59-5f5f-b829-055da6ed8758",
+      "url": "https://www.nytimes.com/2020/09/28/opinion/trump-tax-code.html",
+      "id": 100000007364847,
+      "asset_id": 100000007364847,
+      "source": "New York Times",
+      "published_date": "2020-09-28",
+      "updated": "2020-09-29 23:33:45",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Federal Taxes (US);Income Tax;Taxation;Tax Evasion;Trump Tax Returns;Trump, Donald J;Internal Revenue Service",
+      "column": null,
+      "byline": "By The Editorial Board",
+      "type": "Article",
+      "title": "The Picture of a Broken Tax System",
+      "abstract": "Donald Trump\u2019s tax returns illustrate the profound inequities of the tax code and the shambolic state of federal enforcement.",
+      "des_facet": [
+        "Federal Taxes (US)",
+        "Income Tax",
+        "Taxation",
+        "Tax Evasion",
+        "Trump Tax Returns"
+      ],
+      "org_facet": [
+        "Internal Revenue Service"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nicholas Konrad/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/opinion/28taxes/28taxes-thumbStandard-v10.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/opinion/28taxes/28taxes-mediumThreeByTwo210-v11.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/opinion/28taxes/28taxes-mediumThreeByTwo440-v11.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6d528024-1de1-5846-b1e7-8f2c1751409d",
+      "url": "https://www.nytimes.com/2020/09/29/opinion/trump-foreign-policy.html",
+      "id": 100000007360849,
+      "asset_id": 100000007360849,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 16:02:08",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;United States International Relations;United States Politics and Government;Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;Trump, Donald J;National Security Council;Ukraine;China;Russia",
+      "column": null,
+      "byline": "By Alexander Vindman and John Gans",
+      "type": "Article",
+      "title": "Trump Has Sold Off America\u2019s Credibility for His Personal Gain",
+      "abstract": "From China to Ukraine, this president has acted at odds with American foreign policy. Imagine what he could do with four more years.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States International Relations",
+        "United States Politics and Government",
+        "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry"
+      ],
+      "org_facet": [
+        "National Security Council"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Ukraine",
+        "China",
+        "Russia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Volodymyr Zelensky has been on the receiving end of President Trump\u2019s self-interested foreign policy.",
+          "copyright": "Evan Vucci/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Vindman2/29Vindman2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Vindman2/29Vindman2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Vindman2/29Vindman2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
